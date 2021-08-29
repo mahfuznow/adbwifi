@@ -9,6 +9,8 @@ This is a Batch script that can automate the process of connecting an android de
 * After you run that command, Device IP will be shown. 
 * Then press Enter to connect with that device.
 
+![Demo](/demo.gif)
+
 ## Important things 🟨
 * Please make sure `Developer Options` is turned ON in the device. (To turn ON click on the `Build Number` several time)
 * Make sure you turned on the `USB Debugging` from the `Developer option`
